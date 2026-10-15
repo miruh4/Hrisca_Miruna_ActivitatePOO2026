@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hrisca_Miruna_ActivitatePOO2026/Hrisca_Miruna_ActivitatePOO2026.vcxproj" Id="b4c2bbc4-925c-4dae-b729-87c39ed823dc" />
+</Solution>
